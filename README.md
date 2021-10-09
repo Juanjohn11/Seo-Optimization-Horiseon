@@ -8,8 +8,6 @@ The code for the Horsiseon webpage was working very well at first glance, howeve
  
 The link provided makes it easier to access the image of the website, however if you would like to see it through the VS code click on assets then on images and look for screenshot.horiseon.png.
 
-[alt= Horiseon webpage] 
+![screenshot webpage](https://github.com/Juanjohn11/Seo-Optimization-Horiseon/blob/aa98f90f7a7097030aa1eefe3070942491af593e/assets/images/screenshot.horiseon.png)
 
-(https://github.com/Juanjohn11/Seo-Optimization-Horiseon/blob/aa98f90f7a7097030aa1eefe3070942491af593e/assets/images/screenshot.horiseon.png)
-
-(assets/images/screenshot.horiseon.png)
+![screenshot webpage](assets/images/screenshot.horiseon.png)
