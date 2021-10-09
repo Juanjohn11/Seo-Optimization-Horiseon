@@ -6,6 +6,7 @@ The code for the Horsiseon webpage was working very well at first glance, howeve
 
 ## Usage of Image
  
+The link provided makes it easier to access the image of the website, however if you would like to see it through the VS code click on assets then on images and look for screenshot.horiseon.png.
 
 [alt= Horiseon webpage] 
 
